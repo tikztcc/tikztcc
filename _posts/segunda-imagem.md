@@ -10,7 +10,7 @@ date:   2021-02-16 12:12:12
 ### Descrição
 
 <p style="text-align: justify;">
-Esta imagem foi retirada do livro *tal* do autor *tal*
+Esta imagem foi retirada do livro Álgebra Linear do autor José Luiz Boldrini.
 </p>
 
 ### Código para TIKZ no Latex
