@@ -2,7 +2,7 @@
 title:  "EVENT POKEMON USD$"
 #subtitle: "Only lights from space"
 author: "José Vitor Novaes"
-image: "img/mentoring/mentoring.jpg"
+image: "img/n.jpg"
 date:   2019-01-01 12:12:12
 ---
 
