@@ -2,7 +2,7 @@
 title:  "Bla bla bla"
 #subtitle: "Disciplines Offered"
 author: "João "
-image: "img/teaching/Disciplinas.jpg"
+image: "img/a.jpg"
 ---
 
 ______________________________________
